@@ -1,7 +1,6 @@
 package org.bank;
 
-public class BankAccount
-{
+public class BankAccount {
     private String accountNumber;
     private String personName;
     private double currentBalance;
